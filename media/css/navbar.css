@@ -1,0 +1,18 @@
+#rejestracjaButton {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.login, .haslo {
+    width: 95%;
+    margin-top: 7px;
+}
+.przyciskZaloguj {
+    margin-top: 7px;
+}
+
+.przyciskZarejestruj {
+    margin-top: 7px;
+}

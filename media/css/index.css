@@ -1,0 +1,30 @@
+body {
+    background-color: #181d1e;
+}
+
+.plakat {
+    padding-bottom: 20px;
+}
+.plakat > img {
+    padding-bottom: 10px;
+}
+.plakat > img:hover {
+    transform: scale(1.1);
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 35px ;
+}
+
+h6 {
+    text-align: center;
+    margin-left: -50px;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
